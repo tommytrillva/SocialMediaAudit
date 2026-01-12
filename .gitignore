@@ -10,9 +10,10 @@ server/node_modules/
 server/.env
 
 # Build outputs
+.next/
 dist/
 build/
-client/dist/
+out/
 
 # IDE
 .idea/
